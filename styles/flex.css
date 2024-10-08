@@ -1,0 +1,19 @@
+.parent{
+    padding: 25px;
+    background-color: aquamarine;
+    display: flex;
+    gap: 20px;
+    justify-content:space-between;
+    /* content gulake midddle ,start and end kora jay */
+    height: 350px;
+    align-items: center;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+.child{
+    border: 2px solid yellowgreen;
+    background: whitesmoke;
+    padding: 20px;
+    font-size: 28px;
+    margin: 10px 0;
+}
